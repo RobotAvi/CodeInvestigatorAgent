@@ -1,0 +1,11 @@
+def test_imports():
+    import agent_manager
+    import c4_diagram_generator
+    import code_analyzer
+    import config
+    import gitlab_client
+    import llm_client
+    import main
+    import models
+    import web_interface
+    assert True
